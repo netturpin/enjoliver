@@ -1,5 +1,5 @@
 # Enjoliver
-[![Build Status](https://travis-ci.org/blablacar/enjoliver.svg?branch=master)](https://travis-ci.org/blablacar/enjoliver)
+[![Build Status](https://travis-ci.org/netturpin/enjoliver.svg?branch=master)](https://travis-ci.org/netturpin/enjoliver)
 
 Network boot servers and provision a Container Linux OS running a Kubernetes
 cluster.
